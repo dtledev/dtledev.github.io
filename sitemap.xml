@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://dtledev.github.io/categories/</loc>
     <lastmod>2023-10-16T11:27:15-04:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://dtledev.github.io/</loc>
     <lastmod>2023-10-16T11:27:15-04:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>https://dtledev.github.io/tags/hugo/</loc>
     <lastmod>2023-10-16T11:27:15-04:00</lastmod>
   </url><url>
-    <loc>/tags/intro/</loc>
+    <loc>https://dtledev.github.io/tags/intro/</loc>
     <lastmod>2023-10-16T11:27:15-04:00</lastmod>
   </url><url>
-    <loc>/posts/my-first-post/my-first-post/</loc>
+    <loc>https://dtledev.github.io/posts/my-first-post/my-first-post/</loc>
     <lastmod>2023-10-16T11:27:15-04:00</lastmod>
   </url><url>
-    <loc>/categories/just-for-fun/</loc>
+    <loc>https://dtledev.github.io/categories/just-for-fun/</loc>
     <lastmod>2023-10-16T11:27:15-04:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://dtledev.github.io/posts/</loc>
     <lastmod>2023-10-16T11:27:15-04:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://dtledev.github.io/tags/</loc>
     <lastmod>2023-10-16T11:27:15-04:00</lastmod>
   </url>
 </urlset>
