@@ -3,7 +3,17 @@
         <title>Just For Fun - Category - Daniel Le | dtledev</title>
         <link>https://dtledev.github.io/categories/just-for-fun/</link>
         <description>Just For Fun - Category - Daniel Le | dtledev</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 16 Oct 2023 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/categories/just-for-fun/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Jan 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/categories/just-for-fun/" rel="self" type="application/rss+xml" /><item>
+    <title>About</title>
+    <link>https://dtledev.github.io/about/</link>
+    <pubDate>Tue, 02 Jan 2024 11:27:15 -0400</pubDate>
+    <author>Daniel</author>
+    <guid>https://dtledev.github.io/about/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.jpg" referrerpolicy="no-referrer">
+            </div>About Test]]></description>
+</item>
+<item>
     <title>Intro</title>
     <link>https://dtledev.github.io/posts/my-first-post/my-first-post/</link>
     <pubDate>Mon, 16 Oct 2023 11:27:15 -0400</pubDate>
