@@ -2,13 +2,14 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://dtledev.github.io/categories/</loc><lastmod>2024-05-04T11:27:15-04:00</lastmod></url><url>
+            <loc>https://dtledev.github.io/</loc><lastmod>2024-05-04T11:27:15-04:00</lastmod></url><url>
+            <loc>https://dtledev.github.io/tags/hugo/</loc><lastmod>2024-05-04T11:27:15-04:00</lastmod></url><url>
+            <loc>https://dtledev.github.io/tags/intro/</loc><lastmod>2024-05-04T11:27:15-04:00</lastmod></url><url>
+            <loc>https://dtledev.github.io/categories/just-for-fun/</loc><lastmod>2024-05-04T11:27:15-04:00</lastmod></url><url>
+            <loc>https://dtledev.github.io/posts/</loc><lastmod>2024-05-04T11:27:15-04:00</lastmod></url><url>
+            <loc>https://dtledev.github.io/posts/20240106-static-website/20240106-static-website/</loc><lastmod>2024-05-04T11:27:15-04:00</lastmod></url><url>
+            <loc>https://dtledev.github.io/tags/</loc><lastmod>2024-05-04T11:27:15-04:00</lastmod></url><url>
             <loc>https://dtledev.github.io/tags/about/</loc><lastmod>2024-01-02T11:27:15-04:00</lastmod></url><url>
             <loc>https://dtledev.github.io/about/</loc><lastmod>2024-01-02T11:27:15-04:00</lastmod></url><url>
-            <loc>https://dtledev.github.io/categories/</loc><lastmod>2024-01-02T11:27:15-04:00</lastmod></url><url>
-            <loc>https://dtledev.github.io/</loc><lastmod>2024-01-02T11:27:15-04:00</lastmod></url><url>
-            <loc>https://dtledev.github.io/categories/just-for-fun/</loc><lastmod>2024-01-02T11:27:15-04:00</lastmod></url><url>
-            <loc>https://dtledev.github.io/tags/</loc><lastmod>2024-01-02T11:27:15-04:00</lastmod></url><url>
-            <loc>https://dtledev.github.io/tags/hugo/</loc><lastmod>2023-10-16T11:27:15-04:00</lastmod></url><url>
-            <loc>https://dtledev.github.io/tags/intro/</loc><lastmod>2023-10-16T11:27:15-04:00</lastmod></url><url>
-            <loc>https://dtledev.github.io/posts/my-first-post/my-first-post/</loc><lastmod>2023-10-16T11:27:15-04:00</lastmod></url><url>
-            <loc>https://dtledev.github.io/posts/</loc><lastmod>2023-10-16T11:27:15-04:00</lastmod></url></urlset>
+            <loc>https://dtledev.github.io/posts/my-first-post/</loc><lastmod>2023-10-16T11:27:15-04:00</lastmod></url></urlset>

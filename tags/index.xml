@@ -3,18 +3,10 @@
         <title>Tags - Tag - Daniel Le | dtledev</title>
         <link>https://dtledev.github.io/tags/</link>
         <description>Tags - Tag - Daniel Le | dtledev</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Jan 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>about</title>
-    <link>https://dtledev.github.io/tags/about/</link>
-    <pubDate>Tue, 02 Jan 2024 11:27:15 -0400</pubDate>
-    <author>Daniel Le</author>
-    <guid>https://dtledev.github.io/tags/about/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 05 Jan 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>hugo</title>
     <link>https://dtledev.github.io/tags/hugo/</link>
-    <pubDate>Mon, 16 Oct 2023 11:27:15 -0400</pubDate>
+    <pubDate>Fri, 05 Jan 2024 11:27:15 -0400</pubDate>
     <author>Daniel Le</author>
     <guid>https://dtledev.github.io/tags/hugo/</guid>
     <description><![CDATA[]]></description>
@@ -22,9 +14,17 @@
 <item>
     <title>intro</title>
     <link>https://dtledev.github.io/tags/intro/</link>
-    <pubDate>Mon, 16 Oct 2023 11:27:15 -0400</pubDate>
+    <pubDate>Fri, 05 Jan 2024 11:27:15 -0400</pubDate>
     <author>Daniel Le</author>
     <guid>https://dtledev.github.io/tags/intro/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>about</title>
+    <link>https://dtledev.github.io/tags/about/</link>
+    <pubDate>Tue, 02 Jan 2024 11:27:15 -0400</pubDate>
+    <author>Daniel Le</author>
+    <guid>https://dtledev.github.io/tags/about/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
