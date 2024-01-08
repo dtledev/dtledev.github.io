@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>about - Tag - Daniel Le | dtledev</title>
+        <title>About - Tag - Daniel Le | dtledev</title>
         <link>https://dtledev.github.io/tags/about/</link>
-        <description>about - Tag - Daniel Le | dtledev</description>
+        <description>About - Tag - Daniel Le | dtledev</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Jan 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/tags/about/" rel="self" type="application/rss+xml" /><item>
     <title>About</title>
     <link>https://dtledev.github.io/about/</link>
@@ -11,10 +11,10 @@
     <guid>https://dtledev.github.io/about/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/featured-image.jpg" referrerpolicy="no-referrer">
-            </div>Hi there, I&rsquo;m Daniel 👋 I am an engineer located in Toronto, Canada. This page is to share my work, personal learning, interests and random facts.
-I currently work as cloud engineer at a financial services company details on Linkedin.
-for
-My Journey The idea of learning in public peaked my interest since I&rsquo;ve always been dabbling and trying new things and taking notes so this helps to formalize and share them.]]></description>
+            </div>Hi there, I&rsquo;m Daniel 👋 I am an engineer located in Toronto, Canada and I work specifically in the field of platform engineering and cloud.
+Site I created this page is to share my work, personal learning, interests and random facts.
+I always loved tinkering upgrading my PC and overclocking back in the days. This led me to my focus on networking, servers and backend.
+This page is static website hosted on Github pages, I found it is sufficient for my current use casef]]></description>
 </item>
 </channel>
 </rss>
