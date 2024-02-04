@@ -3,7 +3,15 @@
         <title>Categories - Category - Daniel Le | dtledev</title>
         <link>https://dtledev.github.io/categories/</link>
         <description>Categories - Category - Daniel Le | dtledev</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 05 Jan 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 29 Jan 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Homelab</title>
+    <link>https://dtledev.github.io/categories/homelab/</link>
+    <pubDate>Mon, 29 Jan 2024 11:27:15 -0400</pubDate>
+    <author>Daniel Le</author>
+    <guid>https://dtledev.github.io/categories/homelab/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Just For Fun</title>
     <link>https://dtledev.github.io/categories/just-for-fun/</link>
     <pubDate>Fri, 05 Jan 2024 11:27:15 -0400</pubDate>

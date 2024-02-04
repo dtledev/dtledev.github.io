@@ -3,7 +3,17 @@
         <title>All Posts - Daniel Le | dtledev</title>
         <link>https://dtledev.github.io/posts/</link>
         <description>All Posts | Daniel Le | dtledev</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 05 Jan 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 29 Jan 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Homelab Hardware</title>
+    <link>https://dtledev.github.io/posts/20240129-homelab-hardware/</link>
+    <pubDate>Mon, 29 Jan 2024 11:27:15 -0400</pubDate>
+    <author>Daniel</author>
+    <guid>https://dtledev.github.io/posts/20240129-homelab-hardware/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.jpg" referrerpolicy="no-referrer">
+            </div>Motivation Years ago I ran VMWare vSphere on as a VM my desktop gaming PC. It worked but it used a lot of resources and became tedious to switch whenever I wanted to do something else or startup a game. In the past few years I had embraced the cloud as I started to use it for work diving deep into AWS in my day job. In the past few years WSL and Docker Desktop saw more maturity so on Windows I no longer saw the need to run a seperate linux VM]]></description>
+</item>
+<item>
     <title>Second Post</title>
     <link>https://dtledev.github.io/posts/20240106-static-website/20240106-static-website/</link>
     <pubDate>Fri, 05 Jan 2024 11:27:15 -0400</pubDate>
@@ -25,10 +35,8 @@ GitHub Actions Although I&rsquo;ve setup pipelines on AWS]]></description>
     <guid>https://dtledev.github.io/posts/my-first-post/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/featured-image.jpg" referrerpolicy="no-referrer">
-            </div>Intro This is a personal page that I created to try my hand at blogging and technical writing. I&rsquo;m hoping to share share my experiences, side projects in tech that I&rsquo;ve found fun and interesting.
-Aside from sharing my findings but also sharing as documentation for my current setups.
-My first set of posts will focus on the upgrades to my home lab infrastructure setup and current learnings.
-Influence for this page also comes from the Cloud Resume challenge, although I&rsquo;ve created pages for internal clients during my day job.]]></description>
+            </div>Intro This is a personal page that I created to try my hand at blogging and technical writing. I like to tinker with tech and always had an interest in pushing the potential of older computers. I&rsquo;m hoping to share share my experiences, side projects in tech that I&rsquo;ve found fun and interesting.
+Although I&rsquo;ve created pages for internal clients during my day job, it is nice to build something to share.]]></description>
 </item>
 </channel>
 </rss>
