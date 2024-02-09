@@ -3,19 +3,14 @@
         <title>Just For Fun - Category - Daniel Le | dtledev</title>
         <link>https://dtledev.github.io/categories/just-for-fun/</link>
         <description>Just For Fun - Category - Daniel Le | dtledev</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 05 Jan 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/categories/just-for-fun/" rel="self" type="application/rss+xml" /><item>
-    <title>Second Post</title>
-    <link>https://dtledev.github.io/posts/20240106-static-website/20240106-static-website/</link>
-    <pubDate>Fri, 05 Jan 2024 11:27:15 -0400</pubDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Feb 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/categories/just-for-fun/" rel="self" type="application/rss+xml" /><item>
+    <title>Intro</title>
+    <link>https://dtledev.github.io/posts/my-first-post/</link>
+    <pubDate>Wed, 07 Feb 2024 11:27:15 -0400</pubDate>
     <author>Daniel</author>
-    <guid>https://dtledev.github.io/posts/20240106-static-website/20240106-static-website/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/featured-image.jpg" referrerpolicy="no-referrer">
-            </div>When starting a blog
-Last time I truly hosted a public site was in the early 2010s when learning about the new trend of responsive web design with the growth of mobile web browsing.
-Between then and now
-Why a static website Why static websit
-GitHub Actions Although I&rsquo;ve setup pipelines on AWS]]></description>
+    <guid>https://dtledev.github.io/posts/my-first-post/</guid>
+    <description><![CDATA[Intro This is a personal page that I created to try my hand at blogging and technical writing. I like to tinker with tech and always had an interest in pushing the potential of older computers. I&rsquo;m hoping to share share my experiences, side projects in tech that I&rsquo;ve found fun and interesting.
+Although I&rsquo;ve created pages for internal clients during my day job, it is nice to build something that will be long living and share.]]></description>
 </item>
 <item>
     <title>About</title>
@@ -27,17 +22,6 @@ GitHub Actions Although I&rsquo;ve setup pipelines on AWS]]></description>
                 <img src="/featured-image.jpg" referrerpolicy="no-referrer">
             </div>Hi there, I&rsquo;m Daniel 👋 About I&rsquo;m an engineer located in Toronto, Canada and I work specifically in the field of platform engineering and cloud infrastructure.
 I always loved working with electronics and tweaking my PC for optimal performance as a hobby and this led me to a career focusing on networking, infrastructure and development. The idea of learning in public peaked my interest since I&rsquo;ve always been dabbling and trying new things and taking notes so this helps to formalize and share them.]]></description>
-</item>
-<item>
-    <title>Intro</title>
-    <link>https://dtledev.github.io/posts/my-first-post/</link>
-    <pubDate>Mon, 16 Oct 2023 11:27:15 -0400</pubDate>
-    <author>Daniel</author>
-    <guid>https://dtledev.github.io/posts/my-first-post/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/featured-image.jpg" referrerpolicy="no-referrer">
-            </div>Intro This is a personal page that I created to try my hand at blogging and technical writing. I like to tinker with tech and always had an interest in pushing the potential of older computers. I&rsquo;m hoping to share share my experiences, side projects in tech that I&rsquo;ve found fun and interesting.
-Although I&rsquo;ve created pages for internal clients during my day job, it is nice to build something to share.]]></description>
 </item>
 </channel>
 </rss>
