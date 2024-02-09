@@ -9,8 +9,9 @@
     <pubDate>Wed, 07 Feb 2024 11:27:15 -0400</pubDate>
     <author>Daniel</author>
     <guid>https://dtledev.github.io/posts/my-first-post/</guid>
-    <description><![CDATA[Intro This is a personal page that I created to try my hand at blogging and technical writing. I like to tinker with tech and always had an interest in pushing the potential of older computers. I&rsquo;m hoping to share share my experiences, side projects in tech that I&rsquo;ve found fun and interesting.
-Although I&rsquo;ve created pages for internal clients during my day job, it is nice to build something that will be long living and share.]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.jpg" referrerpolicy="no-referrer">
+            </div>Intro This is a personal page that I created to try my hand at blogging and technical writing. I like to tinker with tech and always had an interest in pushing the potential of older computers. I&rsquo;m hoping to share share my experiences, side projects in tech that I&rsquo;ve found fun and interesting. Although I&rsquo;ve created pages for internal clients during my day job, it is nice to build something that will be long living and share.]]></description>
 </item>
 <item>
     <title>About</title>
