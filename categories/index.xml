@@ -1,15 +1,12 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Categories - Category - Daniel Le | dtledev</title>
-        <link>https://dtledev.github.io/categories/</link>
-        <description>Categories - Category - Daniel Le | dtledev</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 07 Feb 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>Just For Fun</title>
-    <link>https://dtledev.github.io/categories/just-for-fun/</link>
-    <pubDate>Wed, 07 Feb 2024 11:27:15 -0400</pubDate>
-    <author>Daniel Le</author>
-    <guid>https://dtledev.github.io/categories/just-for-fun/</guid>
-    <description><![CDATA[]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Daniel Le</title>
+    <link>https://dtledev.github.io/categories/</link>
+    <description>Recent content in Categories on Daniel Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Daniel Le</copyright>
+    <atom:link href="https://dtledev.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>

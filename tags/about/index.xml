@@ -1,18 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>About - Tag - Daniel Le | dtledev</title>
-        <link>https://dtledev.github.io/tags/about/</link>
-        <description>About - Tag - Daniel Le | dtledev</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 02 Jan 2024 11:27:15 -0400</lastBuildDate><atom:link href="https://dtledev.github.io/tags/about/" rel="self" type="application/rss+xml" /><item>
-    <title>About</title>
-    <link>https://dtledev.github.io/about/</link>
-    <pubDate>Tue, 02 Jan 2024 11:27:15 -0400</pubDate>
-    <author>Daniel</author>
-    <guid>https://dtledev.github.io/about/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/featured-image.jpg" referrerpolicy="no-referrer">
-            </div>Hi there, I&rsquo;m Daniel 👋 About I&rsquo;m an engineer located in Toronto, Canada and I work specifically in the field of platform engineering and cloud infrastructure.
-I always loved working with electronics and tweaking my PC for optimal performance as a hobby and this led me to a career focusing on networking, infrastructure and development. The idea of learning in public peaked my interest since I&rsquo;ve always been dabbling and trying new things and taking notes so this helps to formalize and share them.]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Daniel Le</title>
+    <link>https://dtledev.github.io/tags/about/</link>
+    <description>Recent content in about on Daniel Le</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Daniel Le</copyright>
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dtledev.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://dtledev.github.io/posts/2024-03-12-first-post/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dtledev.github.io/posts/2024-03-12-first-post/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dtledev.github.io/posts/2024-03-12-first-post/featured-image.jpg" />
+    </item>
+    
+  </channel>
 </rss>
