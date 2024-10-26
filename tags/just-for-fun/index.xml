@@ -18,5 +18,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dtledev.github.io/posts/20240312-first-post/featured-image.jpg" />
     </item>
     
+    <item>
+      <title>Homelab</title>
+      <link>https://dtledev.github.io/posts/20240129-homelab-hardware/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dtledev.github.io/posts/20240129-homelab-hardware/</guid>
+      <description>Proxmox homelab</description>
+      
+    </item>
+    
   </channel>
 </rss>
